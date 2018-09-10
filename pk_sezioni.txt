@@ -1,0 +1,5 @@
+dati sezione misurata da STZ013: - anello 838
+				 - pk = 5273
+
+dati sezione misurata da STZ014: - anello 883
+				 - pk = 5370
